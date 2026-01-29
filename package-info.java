@@ -1,7 +1,1 @@
-/**
- * 
- */
-/**
- * 
- */
-package first;
+package collections;
